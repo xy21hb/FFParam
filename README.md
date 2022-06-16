@@ -10,4 +10,4 @@ FFParam Tutorials
 CGenFF Tutorials
 CGenFF Program
 
-![1](https://user-images.githubusercontent.com/14272986/173978835-17385d67-f992-4165-969d-978c4d13899e.png)
+![graphicalabs](https://user-images.githubusercontent.com/14272986/173978989-a4309816-eb03-4e1b-bff3-ef7ce9becb9b.png)
